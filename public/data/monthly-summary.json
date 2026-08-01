@@ -1,24 +1,5 @@
 [
   {
-    "month": "2025-06",
-    "rocMonth": "11406",
-    "populationTotal": 23346741,
-    "populationMale": 11492835,
-    "populationFemale": 11853906,
-    "births": 8968,
-    "deaths": 16554,
-    "naturalChange": -7586,
-    "marriages": 7655,
-    "divorces": 4562,
-    "momChange": null,
-    "yoyChange": null,
-    "sources": {
-      "populationDataset": "77145",
-      "vitalDataset": "131135"
-    },
-    "updatedAt": "2026-07-01T03:25:42.940Z"
-  },
-  {
     "month": "2025-07",
     "rocMonth": "11407",
     "populationTotal": 23337936,
@@ -29,13 +10,13 @@
     "naturalChange": -7907,
     "marriages": 7418,
     "divorces": 4506,
-    "momChange": -8805,
+    "momChange": null,
     "yoyChange": null,
     "sources": {
       "populationDataset": "77145",
       "vitalDataset": "131135"
     },
-    "updatedAt": "2026-04-14T02:30:00.285Z"
+    "updatedAt": "2026-08-01T03:24:00.137Z"
   },
   {
     "month": "2025-08",
@@ -239,11 +220,30 @@
     "marriages": 7210,
     "divorces": 4269,
     "momChange": -9076,
-    "yoyChange": -103176,
+    "yoyChange": null,
     "sources": {
       "populationDataset": "77145",
       "vitalDataset": "131135"
     },
-    "updatedAt": "2026-07-07T03:24:51.362Z"
+    "updatedAt": "2026-08-01T03:24:00.137Z"
+  },
+  {
+    "month": "2026-07",
+    "rocMonth": "11507",
+    "populationTotal": 0,
+    "populationMale": 0,
+    "populationFemale": 0,
+    "births": 0,
+    "deaths": 0,
+    "naturalChange": 0,
+    "marriages": 0,
+    "divorces": 0,
+    "momChange": -23243565,
+    "yoyChange": -23337936,
+    "sources": {
+      "populationDataset": "77145",
+      "vitalDataset": "131135"
+    },
+    "updatedAt": "2026-08-01T03:24:00.137Z"
   }
 ]
