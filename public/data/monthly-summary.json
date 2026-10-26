@@ -176,18 +176,18 @@
     "populationTotal": 23243565,
     "populationMale": 11427972,
     "populationFemale": 11815593,
-    "births": 6312,
-    "deaths": 13567,
-    "naturalChange": -7255,
-    "marriages": 6212,
-    "divorces": 3672,
+    "births": 7324,
+    "deaths": 16340,
+    "naturalChange": -9016,
+    "marriages": 7210,
+    "divorces": 4269,
     "momChange": -9076,
     "yoyChange": null,
     "sources": {
       "populationDataset": "77145",
       "vitalDataset": "131135"
     },
-    "updatedAt": "2026-10-25T07:35:27.360Z"
+    "updatedAt": "2026-10-26T07:48:06.549Z"
   },
   {
     "month": "2026-07",
